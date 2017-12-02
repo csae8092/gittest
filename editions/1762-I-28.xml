@@ -5,9 +5,9 @@
             <title>1762 I 28, St. Lorenzen [Mitterdorfer Jakob Christoph (Kooperator), fol.
                     53r-65r]</title>
             <respStmt>
-               <resp>Transkription und Annotation</resp>
+               <resp>Transkription und Annotation changes</resp>
                <name>
-                  <rs type="person" ref="#prokosch_michael">Michael Prokosch</rs>
+                  <rs ref="#prokosch_michael" type="person">Michael Prokosch</rs>
                </name>
             </respStmt>
          </titleStmt>
@@ -103,7 +103,7 @@
     <text>
         <body>
             <div>
-                
+
                 <p>
                <pb n="53r"/>
             </p>
